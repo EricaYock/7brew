@@ -11,8 +11,7 @@
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
   border-radius: 16px;
-  position: relative;
-  width: 350px;
+  width: 322px;
 }
 
 .cards .cards-card-body {
@@ -33,7 +32,6 @@
 .cards > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
    border-radius: 16px;
   height: 350px;
 }
