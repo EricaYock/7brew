@@ -20,8 +20,8 @@
   --text-color: black;
 
   /* fonts */
-  --body-font-family: 'Gotham-Bold',sans-serif;
-  --heading-font-family: var(--body-font-family);
+  --body-font-family: 'Roboto Mono',sans-serif;
+  --heading-font-family: 'Gotham-Bold';
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
   /* body sizes */
